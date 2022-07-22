@@ -1,2 +1,2 @@
 # rust
-Some simple rust projects to learn the languages.
+Some simple rust projects to help me learn the language.
